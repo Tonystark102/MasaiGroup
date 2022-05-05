@@ -1,0 +1,133 @@
+#searchbar>div{
+    width: 80%;
+    height: 100px;
+    border: 1px solid red;
+    margin: auto;
+}
+#serh{
+    border: 1px solid gray;
+    width: 393px;
+    height: 40px;
+     border-radius: 10px;
+     margin-left: 300px;
+  /* //margin-top: 25px; */
+  margin-bottom: 50px;
+  }
+ .logo{
+      width:  12%;
+      height: 50px;
+  }
+  #a {
+    width: 110px;
+   height: 70px;
+    margin-left: 165px;
+     }
+     #choice{
+         display: flex;
+         justify-content: space-around;
+     }
+     .red{
+         color: red;
+     }
+     .blue{
+         color: blue;
+     }
+     #choice li  {
+         list-style: none;
+         
+     }
+     #choice li a {
+         text-decoration: none;
+     }
+     #offer{
+        /* border: 1px solid black; */
+        width: 95%;
+        height: 150px;
+        margin: auto;
+        margin-top: 65px;
+        background-color: antiquewhite;
+        padding: 20px;
+        
+       
+    }
+    .off{
+    margin-left: 100px;
+    }
+    .img {
+        /* border: 1px solid red; */
+        width: 20%;
+        height: 120px;
+        margin-left: 850px;
+        margin-top: -110px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    }
+    .img >img {
+        width: 100%;
+        height: 98%;
+    }
+    #bigDiv{
+        /* border: 1px solid red; */
+        width: 92%;
+        height: 40s0px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    #bigDiv>img {
+        width: 100%;
+        height: 60%;
+    }
+    #bigDiv>text {
+        margin-top: 10px;
+    }
+   #info{
+       /* border: 1px solid red; */
+       width: 80%;
+       height: 110px;
+       margin: auto;
+      padding-left: 130px;
+      margin-top: 110px;
+   }
+   #info>h3 {
+       font-size: 25px;
+       margin-left: 250px;
+   }
+   #choiceTwo {
+       margin-top: 30px;
+       display: flex;
+       justify-content: space-around;
+   }
+   #choiceTwo li {
+       font-size: 25px;
+       list-style: none;
+   }
+   #choiceTwo li a {
+       text-decoration: none;
+       color: black;
+   }
+   #product {
+     
+         /* border: 1px solid red;  */
+        width: 95%;
+       height: 410px;
+       margin: auto;
+       margin-top: 30px;
+       display: flex;
+       justify-content: space-around;
+   }
+   .pro{
+       /* border: 1px solid black; */
+       width: 25%;
+        height: 98%;
+   }
+   .prod-img{
+       width: 100%;
+       height: 65%;
+   }
+
+  .col {
+      text-decoration: line-through;
+      color: gray;
+  }
+  .checked{
+      color: orange;
+  }
