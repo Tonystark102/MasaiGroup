@@ -26,6 +26,7 @@ var em = document.querySelector("#pname")
 
    var eza = document.querySelector("#subTotal")
    eza.innerText =  proarr[0].price
+// fhfkjsdkjsdfdkj
 
    var nme = JSON.parse(localStorage.getItem("userData2"))
    var em = document.querySelector("#signInOption")
